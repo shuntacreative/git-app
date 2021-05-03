@@ -1,4 +1,4 @@
 class PostsController < ApplicationController
-  def indexend
+  def index
   end
 end
